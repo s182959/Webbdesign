@@ -1,0 +1,47 @@
+.wrapper{
+    width: 50%;
+    height: auto;
+}
+
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+footer {
+    border: 2px solid black;
+    margin: 2px; 
+   padding: 4px; 
+    box-shadow: 5px 5px 5px black;
+}
+
+
+nav ol li {
+display: inline;
+margin: 5px;
+}
+li+li ::before{
+    content: " | ";
+}
+
+/* h1,h2,h3,h4 {
+    margin-left: 4em
+} */
+
+#banner {
+    width: 100%;
+    height: auto;
+    box-shadow: 5px 5px 5px black;
+}
+
+#rubrik {
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px black
+    
+}
+
+.bilder {
+    width: 100%;
+    height: auto;
+    box-shadow: 5px 5px 5px black;
+}

@@ -1,0 +1,33 @@
+body {
+background-color: #888888;
+padding: 15px
+
+}
+
+.responsiveHeight {
+    width: 100%;
+    height: auto
+}
+.responsiveWidth {
+    width: auto;
+    height: 100%;
+}
+    
+
+
+#skuggadBild {
+    border: 15px;
+    
+    box-shadow: 4px 4x red;
+}
+
+#skuggadText {
+    border: blue solid;
+    box-shadow: 4px 4px 4px red;
+    width: auto;
+}
+
+#bildText1 {
+    width: 100%;
+    height: auto;
+}

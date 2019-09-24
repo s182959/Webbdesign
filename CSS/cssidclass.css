@@ -1,0 +1,28 @@
+.fetstil {
+    font-weight: bold
+}
+
+.kursiv {
+    font-style: italic
+}
+
+.linjeUnder {
+    border-bottom: 2px solid black;
+}
+
+.wrapper {
+    display:grid;
+}
+
+.nestad {
+    display: grid;
+}
+
+.rubrik {
+    font-size: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.box    {
+    background-color: cornflowerblue
+}

@@ -1,0 +1,32 @@
+body {
+    margin: 45px;
+}
+nav ul {
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;   
+}
+
+nav ul li a {
+    color: dodgerblue
+}
+
+
+
+.site {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-gap: 10px;
+    background: darkgrey;
+}
+
+.main {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.box {
+    background-color: darkgrey;
+}
